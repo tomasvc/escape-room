@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/ipSvAyJ.jpg" width="800">
+<img src="https://i.imgur.com/ipSvAyJ.jpg" width="1000">
 
 # The Escape Room
 Video game project based on the escape room genre.
